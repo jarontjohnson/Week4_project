@@ -1,0 +1,25 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgres://xsdthbyp:aBJpj14P88kaX8LdBz-qvZo01q5cpLpN@mahmud.db.elephantsql.com/xsdthbyp",
+            "name": "ecom_db"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgres://caqddina:9jqX9lyX9S2dERyYLWjIimXgj--7ya1q@mahmud.db.elephantsql.com/caqddina",
+            "name": "ecom_db"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "connectString": "postgres://xeqebyet:nhjK8iG8u3YElvknhSTdssyMem2FUa7j@kashin.db.elephantsql.com/xeqebyet",
+            "name": "project_dealer"
+        }
+    ]
+}
